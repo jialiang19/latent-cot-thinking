@@ -1,0 +1,12 @@
+{
+  "polynomial": 58,
+  "parity": 59,
+  "binary_copy": 60,
+  "BoS": 61,
+  "EoI": 62,
+  "EoS": 63,
+  "ANS": 64,
+  "BoT": 65,
+  "EoT": 66,
+  "PAD": 67
+}

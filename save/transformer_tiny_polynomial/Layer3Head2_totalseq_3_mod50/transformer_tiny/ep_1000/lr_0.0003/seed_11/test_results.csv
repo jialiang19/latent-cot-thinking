@@ -1,0 +1,5 @@
+sequence_id,test_teacher_acc,test_student_acc,train_teacher_acc,train_student_acc
+1,1.0,1.0,1.0,1.0
+2,1.0,1.0,1.0,1.0
+3,1.0,1.0,1.0,1.0
+AVERAGE,1.0,1.0,1.0,1.0
